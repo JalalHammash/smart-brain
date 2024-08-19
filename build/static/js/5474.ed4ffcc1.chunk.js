@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfacerecognitionbrain=self.webpackChunkfacerecognitionbrain||[]).push([[5474],{5474:(e,n,t)=>{t.d(n,{SquareDrawer:()=>c});const r=Math.sqrt(2);class c{draw(e){!function(e){const{context:n,radius:t}=e,c=t/r,a=2*c;n.rect(-c,-c,a,a)}(e)}getSidesCount(){return 4}}}}]);
+//# sourceMappingURL=5474.ed4ffcc1.chunk.js.map
