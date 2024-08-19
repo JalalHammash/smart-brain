@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfacerecognitionbrain=self.webpackChunkfacerecognitionbrain||[]).push([[7688],{7688:(e,n,a)=>{a.d(n,{LineDrawer:()=>i});class i{draw(e){!function(e){var n;const{context:a,particle:i,radius:t}=e,o=i.shapeData;a.moveTo(-t,0),a.lineTo(t,0),a.lineCap=null!==(n=null===o||void 0===o?void 0:o.cap)&&void 0!==n?n:"butt"}(e)}getSidesCount(){return 1}}}}]);
+//# sourceMappingURL=7688.d72b6b85.chunk.js.map

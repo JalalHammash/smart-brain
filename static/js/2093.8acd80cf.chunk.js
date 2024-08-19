@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfacerecognitionbrain=self.webpackChunkfacerecognitionbrain||[]).push([[2093],{2093:(e,a,n)=>{async function i(e){let a=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const{CircleDrawer:i}=await n.e(4927).then(n.bind(n,4927));await e.addShape("circle",new i,a)}n.d(a,{loadCircleShape:()=>i})}}]);
+//# sourceMappingURL=2093.8acd80cf.chunk.js.map
