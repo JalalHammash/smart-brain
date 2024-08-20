@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkfacerecognitionbrain=self.webpackChunkfacerecognitionbrain||[]).push([[6341],{6341:(a,e,n)=>{async function t(a){let e=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const{StarDrawer:t}=await n.e(7604).then(n.bind(n,7604));await a.addShape("star",new t,e)}n.d(e,{loadStarShape:()=>t})}}]);
-//# sourceMappingURL=6341.eb10956d.chunk.js.map
